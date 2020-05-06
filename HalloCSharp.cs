@@ -5,4 +5,3 @@ class HalloCSharp
         System.Console.WriteLine("Hello C#!");
     }
 }
-<!-- Hallo -->
